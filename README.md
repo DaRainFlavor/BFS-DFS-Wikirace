@@ -34,3 +34,8 @@ Run
 ```
 py wikirace.py
 ```
+Select traversal
+```
+Enter 1 to perform BFS, 2 to perform DFS:
+```
+
