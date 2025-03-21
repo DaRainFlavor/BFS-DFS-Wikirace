@@ -1,5 +1,10 @@
 # MEMBERS
-# Add members once finished
+# Alquicer, Randall
+# Dela Cruz, Leian Carl
+# Lapaz, Jermel
+# Nuñez, Bazer Timothy
+# Vaflor, Adrian
+
 
 import requests
 from bs4 import BeautifulSoup
