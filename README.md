@@ -1,4 +1,4 @@
-# Wiki-Race Project
+# Wiki-Race Using Simple BFS and DFS with SpaCy Similarity Analysis
 
 ## Overview
 This project implements a Wikipedia link traversal system using **BFS (Breadth-First Search) and DFS (Depth-First Search)** to determine the shortest hyperlink path between two Wikipedia articles. The program extracts Wikipedia links using **BeautifulSoup**, ranks them using **SpaCy NLP similarity analysis**, and applies **BFS and DFS** for pathfinding.
