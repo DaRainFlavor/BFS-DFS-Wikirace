@@ -30,3 +30,7 @@ Edit this to specify the starting and target Wikipedia articles:
 base_url = 'https://en.wikipedia.org/wiki/Thought_experiment'
 target_url = 'https://en.wikipedia.org/wiki/Medical_ultrasound'
 ```
+Run
+```
+py wikirace.py
+```
